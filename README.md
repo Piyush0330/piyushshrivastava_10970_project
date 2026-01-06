@@ -33,6 +33,7 @@ If the conditions are not met, appropriate error messages are shown.
 Utility of the Project
 
 This project is useful because:
+
 ■ It demonstrates real-world application of C programming
 
 ■ Helps understand validation of user input
