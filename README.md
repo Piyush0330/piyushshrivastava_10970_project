@@ -33,32 +33,33 @@ If the conditions are not met, appropriate error messages are shown.
 Utility of the Project
 
 This project is useful because:
-*It demonstrates real-world application of C programming
+■ It demonstrates real-world application of C programming
 
-■Helps understand validation of user input
+■ Helps understand validation of user input
 
-■Teaches how banking logic works at a basic level
+■ Teaches how banking logic works at a basic level
 
-■Builds a foundation for more advanced financial or transaction-based programs
+■ Builds a foundation for more advanced financial or transaction-based programs
 
 It can be used as:
-■A college mini project
 
-■A practice program for beginners
+■ A college mini project
 
-■A base model for learning banking software logic
+■ A practice program for beginners
+
+■ A base model for learning banking software logic
 
 Future Scope of the Project:
 
-■The project can be enhanced in many ways, such as
+■ The project can be enhanced in many ways, such as
 
-■Taking withdrawal amount using scanf() (user input)
+■ Taking withdrawal amount using scanf() (user input)
 
-■Adding deposit functionality
+■ Adding deposit functionality
 
-■Implementing PIN authentication
+■ Implementing PIN authentication
 
-■Supporting multiple users/accounts
+■ Supporting multiple users/accounts
 
 ■Saving data using files or databases
 
